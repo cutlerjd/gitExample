@@ -1,5 +1,4 @@
 # Hello World
 Sample readme for the demo on 6/26
 
-
-This is the oakbranch
+The oakbranch was merged into the master. Master is now up to date.
